@@ -1,0 +1,82 @@
+[
+    {
+        "pk": 1,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "Royal Dutch Shell"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "Exxon Mobil"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc-de",
+            "name": "Walmart"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "BP"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "Vitol"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "Sinopec"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "Chevron"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "ConocoPhillips"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "Samsung"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "my_app.company",
+        "fields": {
+            "field": "abc",
+            "name": "Toyota"
+        }
+    }
+]
